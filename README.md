@@ -1,20 +1,16 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**SalamiPi3/SalamiPi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a student majoring electrical computer engineering with a minor in computer science at Wayne State University.
+I am interested in hardware development and the interaction of software with hardware, and how engineering can help those around us.
 
-Here are some ideas to get you started:
+**I'm involved in a variety of organizations and clubs, most notably the following:**
+- *Robotics*
+- *Tau Beta Pi*
+- *IEEE*
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to work on something together, feel free to reach out!
 
-Hello! I am a student studying electrical computer engineering at Wayne State University with a minor in computer science. 
+[Instagram](https://www.instagram.com/salem.engineering/)
 
-I am currently interested in hardware development as well as abstract mathematics and computer architecture.
+[LinkedIn](https://www.linkedin.com/in/salem-al-hadrusi/)
